@@ -5,10 +5,11 @@
 }
 
 body {
-    front-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
-    background-color: oklab(98.72800000000001% 0.00287 -0.00614);
-    color: bisque;
+    background-color: bisque;
+    color: burlywood;
+
 }
 
 /* 3. LAYOUT CONTAINER */
